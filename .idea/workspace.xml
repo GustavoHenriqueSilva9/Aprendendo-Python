@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71dd2772-152c-4d1f-b236-dbba1218504d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jogo de adivinhação.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Media.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jogo de adivinhação.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jogo de adivinhação.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5">
+  <component name="RunManager" selected="Python.Jogo de adivinhação">
     <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Unifacef - Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,8 +147,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5" />
         <item itemvalue="Python.Jogo de adivinhação" />
+        <item itemvalue="Python.5" />
         <item itemvalue="Python.6" />
         <item itemvalue="Python.4" />
         <item itemvalue="Python.Media" />
